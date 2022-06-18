@@ -1,2 +1,1 @@
-# java2
-java exercise 2
+#I am Vietdeptrai
